@@ -3,7 +3,7 @@
 Project code for the [NVIDIA and LlamaIndex Developer Contest](https://developer.nvidia.com/llamaindex-developer-contest#section-contest-process).
 
 # Links
-
+Demo: https://youtu.be/iPNc6LX_KPc
 
 
 # Main Tech
