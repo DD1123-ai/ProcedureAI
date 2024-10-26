@@ -7,10 +7,10 @@ Project code for the [NVIDIA and LlamaIndex Developer Contest](https://developer
 
 
 # Main Tech
--Nvidia Embedding: nvdia/nv-embedqa-e5-v5
--Nvidia NIM:  meta/llama-3.2-3b-instruct
--llama-Index
--Gradio
+- Nvidia Embedding: nvdia/nv-embedqa-e5-v5
+- Nvidia NIM:  meta/llama-3.2-3b-instruct
+- llama-Index
+- Gradio
 
 # Setup
 <details>
@@ -46,6 +46,6 @@ Now, run your code. If you've written the Python code in a file named app.py, th
 The demo below will open in a browser on http://localhost:7860 if running from a file. If you are running within a notebook, the demo will appear embedded within the notebook.
 
 # How to use iPro
--Type any questions in the Question input field, to ask any information from the procedural documents
--Click Submit when done
--If you need any example help, click any question example below the response field
+- Type any questions in the Question input field, to ask any information from the procedural documents
+- Click Submit when done
+- If you need any example help, click any question example below the response field
